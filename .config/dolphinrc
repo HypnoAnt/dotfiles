@@ -1,0 +1,21 @@
+[$Version]
+update_info=dolphin_detailsmodesettings.upd:rename-leading-padding,dolphin_detailsmodesettings.upd:move-content-display
+
+[FoldersPanel]
+LimitFoldersPanelToHome=false
+
+[General]
+Version=202
+ViewPropsTimestamp=2023,9,23,18,9,52.294
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[KPropertiesDialog]
+1920x1200 screen: Height=458
+1920x1200 screen: Width=388
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
