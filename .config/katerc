@@ -10,8 +10,8 @@ Show Tab Bar=true
 Show Url Nav Bar=true
 
 [KFileDialog Settings]
-Recent Files[$e]=altona.txt,file:$HOME/leaks%3F,file:$HOME/.local/share/multimc/instances/ACLU/.minecraft/config/litematica/material_list_2024-01-16_02.50.53.txt,file:$HOME/.local/share/multimc/instances/ACLU/.minecraft/config/litematica/material_list_2023-12-16_03.09.16.txt,file:$HOME/ACLUMods.txt,file:$HOME/packages.txt,file:$HOME/Documents/Obsidian/Test/.obsidian/hotkeys.json,file:$HOME/Hacking/FlipperZero/ID.nfc,file:$HOME/Hacking/FlipperZero/MF_Classic_2023-10-16_.nfc,file:$HOME/Hacking/FlipperZero/nixinstall.txt,file:$HOME/Hacking/FlipperZero/ShaneSID.nfc,file:$HOME/Hacking/FlipperZero/DCU_ID.nfc,file:$HOME/Hacking/FlipperZero/DCU_ROOMS.nfc
-Recent URLs[$e]=file:$HOME/Documents/OURA/,file:$HOME/,file:$HOME/Documents/,file:$HOME/Hacking/FlipperZero/,file:$HOME/Documents/Obsidian/Test/.obsidian/,file:$HOME/.local/share/multimc/instances/ACLU/.minecraft/config/litematica/,file:$HOME/.local/share/multimc/instances/ACLU/.minecraft/config/
+Recent Files[$e]=altona.txt,file:$HOME/packages.txt,file:$HOME/Documents/test,file:$HOME/.local/share/multimc/instances/ACLU/.minecraft/config/litematica/material_list_2024-01-16_02.50.53.txt,file:$HOME/.local/share/multimc/instances/ACLU/.minecraft/config/litematica/material_list_2023-12-16_03.09.16.txt,file:$HOME/Documents/Obsidian/Test/.obsidian/hotkeys.json,file:$HOME/Hacking/FlipperZero/ID.nfc,file:$HOME/Hacking/FlipperZero/MF_Classic_2023-10-16_.nfc,file:$HOME/Hacking/FlipperZero/nixinstall.txt,file:$HOME/Hacking/FlipperZero/ShaneSID.nfc,file:$HOME/Hacking/FlipperZero/DCU_ID.nfc,file:$HOME/Hacking/FlipperZero/DCU_ROOMS.nfc
+Recent URLs[$e]=file:$HOME/Documents/OURA/,file:$HOME/,file:$HOME/Documents/,file:$HOME/Hacking/FlipperZero/,file:$HOME/Documents/Obsidian/Test/.obsidian/,file:$HOME/.local/share/multimc/instances/ACLU/.minecraft/config/litematica/,file:$HOME/.local/share/multimc/instances/ACLU/.minecraft/config/,file:$HOME/Downloads/
 detailViewIconSize=16
 
 [KPropertiesDialog]
@@ -137,7 +137,7 @@ Search History=Vault,WI,score": ,awake\\,True,sleep_,contributors,rest,;,; ,.,re
 
 [MainWindow]
 1920x1200 screen: Height=1128
-1920x1200 screen: Width=960
+1920x1200 screen: Width=953
 
 [filetree]
 editShade=31,81,106

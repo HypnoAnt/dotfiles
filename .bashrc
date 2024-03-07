@@ -14,3 +14,5 @@ alias p="python"
 
 # Created by `pipx` on 2024-01-17 11:58:37
 export PATH="$PATH:/home/hypno/.local/bin"
+
+complete -C /usr/bin/nomad nomad
