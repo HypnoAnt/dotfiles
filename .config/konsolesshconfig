@@ -1,0 +1,232 @@
+[Global plugin config]
+manageProfile=false
+
+[SSH Config][DCU]
+hostname=DCU
+identifier=DCU
+importedFromSshConfig=true
+port=
+profileName=
+sshkey=
+useSshConfig=true
+username=
+
+[SSH Config][HypnoLaptop]
+hostname=192.168.0.114
+identifier=HypnoLaptop
+importedFromSshConfig=true
+port=
+profileName=hypnoant
+sshkey=
+useSshConfig=true
+username=hypno
+
+[SSH Config][OctoPi]
+hostname=OctoPi
+identifier=OctoPi
+importedFromSshConfig=true
+port=
+profileName=Built-in
+sshkey=~/.ssh/Octopi
+useSshConfig=true
+username=
+
+[SSH Config][Octopi]
+hostname=Octopi
+identifier=Octopi
+importedFromSshConfig=true
+port=
+profileName=
+sshkey=
+useSshConfig=true
+username=
+
+[SSH Config][PC]
+hostname=PC
+identifier=PC
+importedFromSshConfig=true
+port=22
+profileName=
+sshkey=
+useSshConfig=true
+username=
+
+[SSH Config][Redbrick]
+hostname=Redbrick
+identifier=Redbrick
+importedFromSshConfig=true
+port=
+profileName=Built-in
+sshkey=
+useSshConfig=true
+username=
+
+[SSH Config][RedbrickPyg]
+hostname=RedbrickPyg
+identifier=RedbrickPyg
+importedFromSshConfig=true
+port=
+profileName=
+sshkey=
+useSshConfig=true
+username=
+
+[SSH Config][RemarkableUSB]
+hostname=RemarkableUSB
+identifier=RemarkableUSB
+importedFromSshConfig=true
+port=22
+profileName=Built-in
+sshkey=~/.ssh/remarkable
+useSshConfig=true
+username=root
+
+[SSH Config][RemarkableWeb]
+hostname=RemarkableWeb
+identifier=RemarkableWeb
+importedFromSshConfig=true
+port=22
+profileName=
+sshkey=~/.ssh/remarkable
+useSshConfig=true
+username=root
+
+[SSH Config][achilles]
+hostname=192.168.0.180
+identifier=achilles
+importedFromSshConfig=true
+port=
+profileName=hypnoant
+sshkey=
+useSshConfig=true
+username=admin
+
+[SSH Config][agamemnon]
+hostname=192.168.0.8
+identifier=agamemnon
+importedFromSshConfig=true
+port=
+profileName=hypnoant
+sshkey=
+useSshConfig=true
+username=hypno
+
+[SSH Config][azazel.redbrick.dcu.ie]
+hostname=pyg.redbrick.dcu.ie
+identifier=azazel.redbrick.dcu.ie
+importedFromSshConfig=true
+port=
+profileName=
+sshkey=
+useSshConfig=true
+username=bourbon
+
+[SSH Config][gajax]
+hostname=192.168.0.45
+identifier=gajax
+importedFromSshConfig=true
+port=
+profileName=hypnoant
+sshkey=
+useSshConfig=true
+username=hypno
+
+[SSH Config][github.com]
+hostname=github.com
+identifier=github.com
+importedFromSshConfig=true
+port=
+profileName=Built-in
+sshkey=~/.ssh/github
+useSshConfig=true
+username=
+
+[SSH Config][gitlab.com]
+hostname=gitlab.computing.dcu.ie
+identifier=gitlab.com
+importedFromSshConfig=true
+port=
+profileName=hypnoant
+sshkey=
+useSshConfig=true
+username=
+
+[SSH Config][hardcase]
+hostname=hardcase.internal
+identifier=hardcase
+importedFromSshConfig=true
+port=
+profileName=hypnoant
+sshkey=
+useSshConfig=true
+username=bourbon
+
+[SSH Config][hypnoPC]
+hostname=192.168.0.102
+identifier=hypnoPC
+importedFromSshConfig=true
+port=
+profileName=hypnoant
+sshkey=
+useSshConfig=true
+username=hypno
+
+[SSH Config][icarus]
+hostname=icarus.internal
+identifier=icarus
+importedFromSshConfig=true
+port=
+profileName=
+sshkey=
+useSshConfig=true
+username=bourbon
+
+[SSH Config][lajax]
+hostname=192.168.0.205
+identifier=lajax
+importedFromSshConfig=true
+port=
+profileName=hypnoant
+sshkey=
+useSshConfig=true
+username=hypno
+
+[SSH Config][menelaus]
+hostname=192.168.0.35
+identifier=menelaus
+importedFromSshConfig=true
+port=
+profileName=hypnoant
+sshkey=
+useSshConfig=true
+username=hypno
+
+[SSH Config][motherlode]
+hostname=motherlode.internal
+identifier=motherlode
+importedFromSshConfig=true
+port=
+profileName=hypnoant
+sshkey=
+useSshConfig=true
+username=bourbon
+
+[SSH Config][paphos]
+hostname=paphos
+identifier=paphos
+importedFromSshConfig=true
+port=
+profileName=
+sshkey=
+useSshConfig=true
+username=bourbon
+
+[SSH Config][ubuntuServer]
+hostname=ubuntuServer
+identifier=ubuntuServer
+importedFromSshConfig=true
+port=
+profileName=Built-in
+sshkey=
+useSshConfig=true
+username=

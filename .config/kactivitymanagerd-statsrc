@@ -1,0 +1,11 @@
+[Favorites-org.kde.plasma.kickoff.favorites.instance-25-e246b57e-36b5-4f60-aff8-4d06ee7fe850]
+ordering=applications:obsidian.desktop,applications:discord.desktop,applications:org.keepassxc.KeePassXC.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.konsole.desktop,applications:systemsettings.desktop,applications:code.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-25-global]
+ordering=applications:obsidian.desktop,applications:discord.desktop,applications:org.keepassxc.KeePassXC.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.konsole.desktop,applications:systemsettings.desktop,applications:code.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-e246b57e-36b5-4f60-aff8-4d06ee7fe850]
+ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.discover.desktop,applications:org.kde.dolphin.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-global]
+ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.discover.desktop,applications:org.kde.dolphin.desktop
