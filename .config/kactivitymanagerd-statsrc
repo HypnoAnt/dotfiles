@@ -5,7 +5,7 @@ ordering=applications:obsidian.desktop,applications:discord.desktop,applications
 ordering=applications:obsidian.desktop,applications:discord.desktop,applications:org.keepassxc.KeePassXC.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.konsole.desktop,applications:systemsettings.desktop,applications:code.desktop
 
 [Favorites-org.kde.plasma.kickoff.favorites.instance-3-e246b57e-36b5-4f60-aff8-4d06ee7fe850]
-ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.discover.desktop,applications:org.kde.dolphin.desktop
+ordering=applications:obsidian.desktop,applications:vesktop.desktop,applications:discord.desktop,applications:org.keepassxc.KeePassXC.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.konsole.desktop,applications:systemsettings.desktop,applications:code.desktop,applications:org.mozilla.Thunderbird.desktop
 
 [Favorites-org.kde.plasma.kickoff.favorites.instance-3-global]
-ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.discover.desktop,applications:org.kde.dolphin.desktop
+ordering=applications:obsidian.desktop,applications:vesktop.desktop,applications:discord.desktop,applications:org.keepassxc.KeePassXC.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.konsole.desktop,applications:systemsettings.desktop,applications:code.desktop,applications:org.mozilla.Thunderbird.desktop
