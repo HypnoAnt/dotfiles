@@ -9,11 +9,6 @@ Show Status Bar=true
 Show Tab Bar=true
 Show Url Nav Bar=true
 
-[KFileDialog Settings]
-Recent Files[$e]=altona.txt,file:$HOME/packages.txt,file:$HOME/Documents/test,file:$HOME/.local/share/multimc/instances/ACLU/.minecraft/config/litematica/material_list_2024-01-16_02.50.53.txt,file:$HOME/.local/share/multimc/instances/ACLU/.minecraft/config/litematica/material_list_2023-12-16_03.09.16.txt,file:$HOME/Documents/Obsidian/Test/.obsidian/hotkeys.json,file:$HOME/Hacking/FlipperZero/ID.nfc,file:$HOME/Hacking/FlipperZero/MF_Classic_2023-10-16_.nfc,file:$HOME/Hacking/FlipperZero/nixinstall.txt,file:$HOME/Hacking/FlipperZero/ShaneSID.nfc,file:$HOME/Hacking/FlipperZero/DCU_ID.nfc,file:$HOME/Hacking/FlipperZero/DCU_ROOMS.nfc
-Recent URLs[$e]=file:$HOME/Documents/OURA/,file:$HOME/,file:$HOME/Documents/,file:$HOME/Hacking/FlipperZero/,file:$HOME/Documents/Obsidian/Test/.obsidian/,file:$HOME/.local/share/multimc/instances/ACLU/.minecraft/config/litematica/,file:$HOME/.local/share/multimc/instances/ACLU/.minecraft/config/,file:$HOME/Downloads/
-detailViewIconSize=16
-
 [KPropertiesDialog]
 1920x1200 screen: Window-Maximized=true
 
@@ -134,13 +129,13 @@ Word Completion Remove Tail=true
 
 [KTextEditor::Search]
 Replace History=;,;\s
-Search History=Vault,WI,score": ,awake\\,True,sleep_,contributors,rest,;,; ,.,registrations,.einstein-r,U2FsdGVkX1/7pMeooKAoDJcM2SlPDILeY7pUVsyvxPz14AsgfSLM/U8IJGj9yiT3\n,7781fce53cdefd27029ffbce0d725ab55b02a8ad,ssh
+Search History=Group 20,23378013,upgrad,upgrade,Vault,WI,score": ,awake\\,True,sleep_,contributors,rest,;,; ,.,registrations,.einstein-r,U2FsdGVkX1/7pMeooKAoDJcM2SlPDILeY7pUVsyvxPz14AsgfSLM/U8IJGj9yiT3\n,7781fce53cdefd27029ffbce0d725ab55b02a8ad,ssh
 
 [MainWindow]
 1920x1200 screen: Height=1128
 1920x1200 screen: Width=959
-2 screens: Height=1008
-2 screens: Width=958
+2 screens: Height=660
+2 screens: Width=1277
 
 [filetree]
 editShade=31,81,106

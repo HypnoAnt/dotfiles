@@ -32,6 +32,7 @@ autocmd BufWritePre * : %s/\s\+$//e  "remove white space trail on save
 
 call plug#begin()
 
+Plug 'ThePrimeagen/vim-be-good'
 Plug 'https://github.com/vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'ryanoasis/vim-devicons'
