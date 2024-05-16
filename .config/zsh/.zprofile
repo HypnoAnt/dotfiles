@@ -2,6 +2,9 @@ if [[ "$(tty)" = "/dev/tty1" ]]; then
   pgrep i3 || startx "$XDG_CONFIG_HOME/X11/xinitrc"
 fi
 
+GPG_TTY=$(tty)
+export GPG_TTY
+
 # set PATH so it includes user's private bin if it exists
 if [ -d "$HOME/bin" ] ; then
     PATH="$HOME/bin:$PATH"
