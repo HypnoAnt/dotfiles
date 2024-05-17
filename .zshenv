@@ -69,6 +69,7 @@ export PATH=$PATH:$HOME/.local/bin:$HOME/.local/share/gem/ruby/3.0.0/bin:$HOME/.
 # bin path for go packages
 export GOBIN=$HOME/.local/bin
 
+export GPG_TTY=$TTY
 export EINSTEIN_USERNAME='holahag2'
 
 # Values for shader caching for use in gaming. (Nvidia)
