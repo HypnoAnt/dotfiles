@@ -1,6 +1,26 @@
 [Global plugin config]
 manageProfile=false
 
+[SSH Config][192.168.0.13]
+hostname=192.168.0.80
+identifier=192.168.0.13
+importedFromSshConfig=true
+port=
+profileName=hypnoant
+sshkey=~/.ssh/ecdsa-key
+useSshConfig=true
+username=mks
+
+[SSH Config][192.168.0.93]
+hostname=192.168.0.103
+identifier=192.168.0.93
+importedFromSshConfig=true
+port=
+profileName=hypnoant
+sshkey=~/.ssh/ecdsa-key
+useSshConfig=true
+username=mks
+
 [SSH Config][DCU]
 hostname=DCU
 identifier=DCU
@@ -152,14 +172,14 @@ useSshConfig=true
 username=
 
 [SSH Config][hardcase]
-hostname=hardcase.internal
+hostname=192.168.0.158
 identifier=hardcase
 importedFromSshConfig=true
 port=
 profileName=hypnoant
-sshkey=
+sshkey=~/.ssh/redbrick-nix
 useSshConfig=true
-username=bourbon
+username=root
 
 [SSH Config][hypnoPC]
 hostname=192.168.0.102

@@ -136,10 +136,11 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [DirSelect Dialog]
-DirSelectDialog Size=844,598
+DirSelectDialog Size=1344,778
+History Items[$e]=file:$HOME/Redbrick/blockbot,file:$HOME/Coding/Code/Projects/blockbot,file:$HOME/Coding/Code/Projects/tech_arena_24_phase_1,file:$HOME/Coding/Code/Projects/tech_arena_24_phase_1,file:$HOME/Redbrick/nix-configs,file:$HOME/docs/docs,file:$HOME/docs,file:$HOME/docs/docs,file:$HOME/docs,file:$HOME/Redbrick/docs-test/docs,file:$HOME/Redbrick/docs/docs,file:$HOME/Redbrick/docs/docs,file:$HOME/Redbrick/docs,file:$HOME/Redbrick/docs,file:$HOME/Redbrick/open-governance,file:$HOME/Documents/Obsidian/Brain,file:$HOME/Redbrick/docs,file:$HOME/Documents/Obsidian/Brain,file:$HOME/Documents/Obsidian/2023Ytb02c
 
 [General]
-ColorSchemeHash=b3e34bc12d2f6584da133e558e5fb5ddfbae1540
+ColorSchemeHash=f13a5f93a8d2186748a87eaf56ec9fcef24073d5
 
 [Icons]
 Theme=candy-icons
@@ -151,7 +152,7 @@ LookAndFeelPackage=org.kde.breezedark.desktop
 Allow Expansion=false
 Automatically select filename extension=true
 Breadcrumb Navigation=true
-Decoration position=2
+Decoration position=0
 LocationCombo Completionmode=5
 PathCombo Completionmode=5
 Show Bookmarks=false
@@ -163,9 +164,9 @@ Show hidden files=true
 Sort by=Name
 Sort directories first=true
 Sort hidden files last=false
-Sort reversed=false
+Sort reversed=true
 Speedbar Width=138
-View Style=DetailTree
+View Style=Simple
 
 [WM]
 activeBackground=49,54,59

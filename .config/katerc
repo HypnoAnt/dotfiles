@@ -9,6 +9,9 @@ Show Status Bar=true
 Show Tab Bar=true
 Show Url Nav Bar=true
 
+[KFileDialog Settings]
+listViewIconSize=48
+
 [KPropertiesDialog]
 1920x1200 screen: Window-Maximized=true
 
@@ -65,6 +68,7 @@ Line Height Multiplier=1
 Show Indentation Lines=false
 Show Whole Bracket Expression=false
 Text Font=Hack,10,-1,7,400,0,0,0,0,0,0,0,0,0,0,1
+Text Font Features=
 Word Wrap Marker=false
 
 [KTextEditor View]
@@ -83,7 +87,9 @@ Dynamic Word Wrap Align Indent=80
 Dynamic Word Wrap At Static Marker=false
 Dynamic Word Wrap Indicators=1
 Dynamic Wrap not at word boundaries=false
+Enable Accessibility=true
 Enable Tab completion=false
+Enter To Insert Completion=true
 Fold First Line=false
 Folding Bar=true
 Folding Preview=true
@@ -103,7 +109,7 @@ Scroll Bar Mini Map Width=60
 Scroll Bar MiniMap=true
 Scroll Bar Preview=true
 Scroll Past End=false
-Search/Replace Flags=141
+Search/Replace Flags=140
 Shoe Line Ending Type in Statusbar=false
 Show Documentation With Completion=true
 Show File Encoding=true
@@ -128,18 +134,20 @@ Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
 [KTextEditor::Search]
-Replace History=;,;\s
-Search History=Group 20,23378013,upgrad,upgrade,Vault,WI,score": ,awake\\,True,sleep_,contributors,rest,;,; ,.,registrations,.einstein-r,U2FsdGVkX1/7pMeooKAoDJcM2SlPDILeY7pUVsyvxPz14AsgfSLM/U8IJGj9yiT3\n,7781fce53cdefd27029ffbce0d725ab55b02a8ad,ssh
+Replace History=,;,;\s
+Search History=#,**,distance,Distance,entityDistance,entity,fov,run,Group 20,23378013,upgrad,upgrade,Vault,WI,score": ,awake\\,True,sleep_,contributors,rest,;,; ,.,registrations,.einstein-r,U2FsdGVkX1/7pMeooKAoDJcM2SlPDILeY7pUVsyvxPz14AsgfSLM/U8IJGj9yiT3\n,7781fce53cdefd27029ffbce0d725ab55b02a8ad,ssh
 
 [MainWindow]
 1920x1200 screen: Height=1128
 1920x1200 screen: Width=959
-2 screens: Height=660
-2 screens: Width=1277
+2 screens: Height=845
+2 screens: Width=1331
+2 screens: Window-Maximized=true
 
 [filetree]
 editShade=31,81,106
 listMode=false
+middleClickToClose=false
 shadingEnabled=true
 showCloseButton=false
 showFullPathOnRoots=false

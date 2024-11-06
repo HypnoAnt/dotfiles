@@ -1,6 +1,14 @@
 [$Version]
 update_info=dolphin_detailsmodesettings.upd:rename-leading-padding,dolphin_detailsmodesettings.upd:move-content-display
 
+[DetailsMode]
+PreviewSize=16
+
+[ExtractDialog]
+2 screens: Height=540
+2 screens: Width=1260
+DirHistory[$e]=$HOME/Documents/Obsidian/
+
 [FoldersPanel]
 LimitFoldersPanelToHome=false
 
