@@ -241,6 +241,16 @@ sshkey=
 useSshConfig=true
 username=bourbon
 
+[SSH Config][patroclus]
+hostname=192.168.0.250
+identifier=patroclus
+importedFromSshConfig=true
+port=
+profileName=hypnoant
+sshkey=~/.ssh/ecdsa-key
+useSshConfig=true
+username=mks
+
 [SSH Config][ubuntuServer]
 hostname=ubuntuServer
 identifier=ubuntuServer

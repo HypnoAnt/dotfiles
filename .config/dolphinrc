@@ -24,8 +24,8 @@ Places Icons Static Size=22
 1920x1200 screen: Height=458
 1920x1200 screen: Width=388
 
-[MainWindow]
-ToolBarsMovable=Disabled
+[Search]
+What=Content
 
 [ViewPropertiesDialog]
 1920x1200 screen: Height=334

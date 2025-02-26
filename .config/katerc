@@ -135,14 +135,13 @@ Word Completion Remove Tail=true
 
 [KTextEditor::Search]
 Replace History=,;,;\s
-Search History=#,**,distance,Distance,entityDistance,entity,fov,run,Group 20,23378013,upgrad,upgrade,Vault,WI,score": ,awake\\,True,sleep_,contributors,rest,;,; ,.,registrations,.einstein-r,U2FsdGVkX1/7pMeooKAoDJcM2SlPDILeY7pUVsyvxPz14AsgfSLM/U8IJGj9yiT3\n,7781fce53cdefd27029ffbce0d725ab55b02a8ad,ssh
+Search History=cns,society,week,#,**,distance,Distance,entityDistance,entity,fov,run,Group 20,23378013,upgrad,upgrade,Vault,WI,score": ,awake\\,True,sleep_,contributors,rest,;,; ,.,registrations,.einstein-r,U2FsdGVkX1/7pMeooKAoDJcM2SlPDILeY7pUVsyvxPz14AsgfSLM/U8IJGj9yiT3\n,7781fce53cdefd27029ffbce0d725ab55b02a8ad,ssh
 
 [MainWindow]
 1920x1200 screen: Height=1128
 1920x1200 screen: Width=959
-2 screens: Height=845
-2 screens: Width=1331
-2 screens: Window-Maximized=true
+2 screens: Height=918
+2 screens: Width=594
 
 [filetree]
 editShade=31,81,106

@@ -9,15 +9,20 @@ ConfigVersion=1
 [KFileDialog Settings]
 detailViewIconSize=16
 
+[KonsoleWindow]
+UseSingleInstance=true
+
 [MainWindow]
 1920x1200 screen: Height=1128
 1920x1200 screen: Width=960
 1920x1200 screen: XPosition=960
 1920x1200 screen: YPosition=28
 RestorePositionForNextInstance=false
-ToolBarsMovable=Disabled
 eDP-1=eDP-1
 eDP1=eDP1
+
+[TabBar]
+TabBarVisibility=AlwaysShowTabBar
 
 [UiSettings]
 ColorScheme=

@@ -1,2 +1,18 @@
-08:02:24.568575 Log continuation - Log started 2024-08-27T14:34:58.059204000Z
-08:02:25.389425 GUI: UICommon: aboutToQuit request handled!
+00:00:02.749721 VirtualBox GUI VM Selector Window 7.1.4 r165100 linux.amd64 (Nov 23 2024 21:49:26) release log
+00:00:02.749722 Log opened 2024-12-12T01:00:39.641179000Z
+00:00:02.749723 Build Type: release
+00:00:02.749724 OS Product: Linux
+00:00:02.749724 OS Release: 6.6.63-1-lts
+00:00:02.749725 OS Version: #1 SMP PREEMPT_DYNAMIC Fri, 22 Nov 2024 15:39:56 +0000
+00:00:02.749740 DMI Product Name: System Product Name
+00:00:02.749744 DMI Product Version: System Version
+00:00:02.749746 Firmware type: UEFI
+00:00:02.749838 Secure Boot: Disabled
+00:00:02.749857 Host RAM: 31936MB (31.1GB) total, 11405MB (11.1GB) available
+00:00:02.749859 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:02.749859 Process ID: 2602788
+00:00:02.749860 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:02.749872 Qt version: 6.8.1
+00:00:02.752115 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:02.755466 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:02.755475 GUI: UIMediumEnumerator: Medium-enumeration finished!
