@@ -1,2 +1,22 @@
-08:02:24.568575 Log continuation - Log started 2024-08-27T14:34:58.059204000Z
-08:02:25.389425 GUI: UICommon: aboutToQuit request handled!
+00:00:00.298518 VirtualBox GUI VM Selector Window 7.1.6 r167084 linux.amd64 (Jan 27 2025 07:52:25) release log
+00:00:00.298522 Log opened 2025-02-10T11:31:29.090665000Z
+00:00:00.298523 Build Type: release
+00:00:00.298529 OS Product: Linux
+00:00:00.298531 OS Release: 6.12.12-1-lts
+00:00:00.298533 OS Version: #1 SMP PREEMPT_DYNAMIC Sat, 01 Feb 2025 18:47:29 +0000
+00:00:00.298595 DMI Product Name: XPS 15 9530
+00:00:00.298620 DMI Product Version: 
+00:00:00.298633 Firmware type: UEFI
+00:00:00.299651 Secure Boot: Disabled
+00:00:00.299731 Host RAM: 31764MB (31.0GB) total, 22672MB (22.1GB) available
+00:00:00.299737 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.299738 Process ID: 23443
+00:00:00.299739 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.299805 Qt version: 6.8.2
+00:00:00.301167 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.315875 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.989513 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:01.031824 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x0 x 1920x1146
+00:01:31.811036 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:19.999664 GUI: UICommon: Handling aboutToQuit request..
+00:02:20.531013 GUI: UICommon: aboutToQuit request handled!

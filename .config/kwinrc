@@ -1,6 +1,9 @@
 [$Version]
 update_info=kwin.upd:replace-scalein-with-scale,kwin.upd:port-minimizeanimation-effect-to-js,kwin.upd:port-scale-effect-to-js,kwin.upd:port-dimscreen-effect-to-js,kwin.upd:auto-bordersize,kwin.upd:animation-speed,kwin.upd:desktop-grid-click-behavior,kwin.upd:no-swap-encourage,kwin.upd:make-translucency-effect-disabled-by-default,kwin.upd:remove-flip-switch-effect,kwin.upd:remove-cover-switch-effect,kwin.upd:remove-cubeslide-effect,kwin.upd:remove-xrender-backend,kwin.upd:enable-scale-effect-by-default,kwin.upd:overview-group-plugin-id,kwin.upd:animation-speed-cleanup,kwin.upd:replace-cascaded-zerocornered
 
+[Activities][LastVirtualDesktop]
+e246b57e-36b5-4f60-aff8-4d06ee7fe850=7fd1162d-5190-48ad-a8ef-26483f6cc4fc
+
 [Desktops]
 Id_1=7fd1162d-5190-48ad-a8ef-26483f6cc4fc
 Id_2=af857eca-f378-433d-b468-e5f0beab130e
@@ -9,11 +12,11 @@ Id_4=493151a0-75bc-4bef-a9fd-937084072cb8
 Id_5=8ceb14e4-2dff-4433-a1ab-832e95003285
 Id_6=f84ed19a-6f8b-4c2c-b280-e71d2ac5e581
 Name_1=General
-Name_2=Engineering
+Name_2=DCU
 Name_3=Coding
-Name_4=System Admin
-Name_5=3D Printing
-Name_6=Work
+Name_4=SPARC
+Name_5=Solar Racing
+Name_6=System Admin
 Number=6
 Rows=1
 
@@ -22,8 +25,8 @@ InitialZoom=1.2
 
 [NightColor]
 Active=true
-LatitudeAuto=18.4615
-LongitudeAuto=-69.8965
+LatitudeAuto=53.39
+LongitudeAuto=-6.26
 
 [Plugins]
 zoomEnabled=false
@@ -38,7 +41,13 @@ padding=4
 [Tiling][0d3998b5-12fb-5e5d-9844-298a9a2f96a3]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
+[Tiling][13c00855-5a56-52ea-a74a-faa05e607693]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Tiling][213a9620-187e-58a6-b80b-85d8fb95dfce]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][333b2721-f151-579f-8688-01a53e85a43f]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][3c357c8b-67ae-5a6d-a1ff-e6dec3d6ea12]
@@ -50,6 +59,9 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 [Tiling][42f50ab8-cdfd-540f-bf86-e7693e2a83ca]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
+[Tiling][544ee23b-00b2-5fef-ba56-a93d6df52f93]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Tiling][57761979-9b70-5e7c-a40b-39fd4c11fa33]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
@@ -57,6 +69,9 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][5bc65c8c-1d9e-5c92-89a9-8ce81610abe9]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][61ea5e6c-e334-5302-a3da-9c8bf95d9506]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][61ebf13d-04ce-5522-886b-23fc20e3f252]
@@ -77,10 +92,16 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 [Tiling][c28d68bd-1b47-5822-ab24-2d8aacdb3597]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
+[Tiling][c42dee4a-5e2b-51dc-b665-95c5eb93f8ec]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Tiling][da7680ae-fd8d-5836-b7df-419a2fc9b658]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][df3d0e58-40b3-5b57-81b9-351df09eabb7]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][df8f72c7-a4dd-5a71-aa12-92b8e9b0ea76]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][ef7ab91e-883f-5083-8242-66b9e7d3c13d]

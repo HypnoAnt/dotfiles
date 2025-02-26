@@ -62,7 +62,7 @@ Fallback Encoding=ISO 8859-15
 [KTextEditor Renderer]
 Animate Bracket Matching=false
 Auto Color Theme Selection=true
-Color Theme=Breeze Dark
+Color Theme=Breeze Light
 Font=Hack,10,-1,7,50,0,0,0,0,0
 Line Height Multiplier=1
 Show Indentation Lines=false
@@ -138,7 +138,7 @@ Replace History=,;,;\s
 Search History=#,**,distance,Distance,entityDistance,entity,fov,run,Group 20,23378013,upgrad,upgrade,Vault,WI,score": ,awake\\,True,sleep_,contributors,rest,;,; ,.,registrations,.einstein-r,U2FsdGVkX1/7pMeooKAoDJcM2SlPDILeY7pUVsyvxPz14AsgfSLM/U8IJGj9yiT3\n,7781fce53cdefd27029ffbce0d725ab55b02a8ad,ssh
 
 [MainWindow]
-1920x1200 screen: Height=1128
+1920x1200 screen: Height=1109
 1920x1200 screen: Width=959
 2 screens: Height=845
 2 screens: Width=1331

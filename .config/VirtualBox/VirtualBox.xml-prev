@@ -9,10 +9,11 @@
   <Global>
     <ExtraData>
       <ExtraDataItem name="GUI/LastItemSelected" value="m=61d0b09a-831a-44fe-a33f-c61953f6c199"/>
-      <ExtraDataItem name="GUI/LastWindowPosition" value="0,28,1920,1008"/>
+      <ExtraDataItem name="GUI/LastWindowPosition" value="0,36,1920,1008"/>
       <ExtraDataItem name="GUI/NotificationCenter/Order" value="Ascending"/>
       <ExtraDataItem name="GUI/RecentFolderCD" value="/home/hypno/Downloads/ISOs"/>
       <ExtraDataItem name="GUI/RecentListCD" value="/home/hypno/Downloads/ISOs/Win10_22H2_EnglishInternational_x64v1.iso,/home/hypno/Downloads/kali-linux-2023.3-installer-amd64.iso"/>
+      <ExtraDataItem name="GUI/Settings/ExpertMode" value="true"/>
       <ExtraDataItem name="GUI/SnapshotManager/Details/Expanded" value="true"/>
       <ExtraDataItem name="GUI/SplitterSizes" value="500,1419"/>
       <ExtraDataItem name="GUI/SuppressMessages" value="confirmGoingFullscreen"/>

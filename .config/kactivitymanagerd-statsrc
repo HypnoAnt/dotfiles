@@ -9,3 +9,9 @@ ordering=applications:obsidian.desktop,applications:org.keepassxc.KeePassXC.desk
 
 [Favorites-org.kde.plasma.kickoff.favorites.instance-3-global]
 ordering=applications:obsidian.desktop,applications:org.keepassxc.KeePassXC.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.konsole.desktop,applications:systemsettings.desktop,applications:code.desktop,applications:org.mozilla.Thunderbird.desktop,applications:vesktop.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-523-e246b57e-36b5-4f60-aff8-4d06ee7fe850]
+ordering=applications:obsidian.desktop,applications:org.keepassxc.KeePassXC.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.konsole.desktop,applications:systemsettings.desktop,applications:org.mozilla.Thunderbird.desktop,applications:discord.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-523-global]
+ordering=applications:obsidian.desktop,applications:org.keepassxc.KeePassXC.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.konsole.desktop,applications:systemsettings.desktop,applications:org.mozilla.Thunderbird.desktop,applications:discord.desktop
