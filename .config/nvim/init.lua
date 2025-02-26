@@ -7,8 +7,8 @@
 | |\  | |___| |__| | \  /   _| |_| |  | |
 |_| \_|______\____/   \/   |_____|_|  |_|
 
-By WIZZDOM
-Based off Kickstart.nvim
+By Hypnoant
+Based off WIZZDOM based off Kickstart.nvim
 
 --]]
 local augroup = vim.api.nvim_create_augroup
@@ -217,6 +217,7 @@ vim.opt.rtp:prepend(lazypath)
 --    :Lazy update
 --
 require("lazy").setup({
+	-- PLUGIN
 	"tpope/vim-sleuth", -- Detect tabstop and shiftwidth automatically
 
 	-- Use `opts = {}` to force a plugin to be loaded.
@@ -224,8 +225,10 @@ require("lazy").setup({
 	--    require('Comment').setup({})
 
 	-- "gc" to comment visual regions/lines
+	-- PLUGIN
 	{ "numToStr/Comment.nvim", opts = {} },
 
+	-- PLUGIN
 	{
 		"norcalli/nvim-colorizer.lua",
 		opts = {},
@@ -239,6 +242,7 @@ require("lazy").setup({
 	--    require('gitsigns').setup({ ... })
 	--
 	-- See `:help gitsigns` to understand what the configuration keys do
+	-- PLUGIN
 	{ -- Adds git related signs to the gutter, as well as utilities for managing changes
 		"lewis6991/gitsigns.nvim",
 		opts = {
@@ -252,6 +256,7 @@ require("lazy").setup({
 		},
 	},
 
+	-- PLUGIN
 	{ -- Useful plugin to show you pending keybinds.
 		"folke/which-key.nvim",
 		event = "VimEnter", -- Sets the loading event to 'VimEnter'
@@ -269,6 +274,7 @@ require("lazy").setup({
 		end,
 	},
 
+	-- PLUGIN
 	{ -- Fuzzy Finder (files, lsp, etc)
 		"nvim-telescope/telescope.nvim",
 		event = "VimEnter",
@@ -355,6 +361,7 @@ require("lazy").setup({
 		end,
 	},
 
+	-- PLUGIN
 	{ -- LSP Configuration & Plugins
 		"neovim/nvim-lspconfig",
 		dependencies = {
@@ -524,6 +531,7 @@ require("lazy").setup({
 		end,
 	},
 
+	-- PLUGIN
 	{ -- Autoformat
 		"stevearc/conform.nvim",
 		lazy = false,
@@ -561,6 +569,7 @@ require("lazy").setup({
 		},
 	},
 
+	-- PLUGIN
 	{ -- Autocompletion
 		"hrsh7th/nvim-cmp",
 		event = "InsertEnter",
@@ -654,6 +663,7 @@ require("lazy").setup({
 		end,
 	},
 
+	-- PLUGIN
 	{ -- Install Tokyonight Colorscheme
 		"folke/tokyonight.nvim",
 		priority = 1000, -- Make sure to load this before all the other start plugins.
@@ -681,6 +691,7 @@ require("lazy").setup({
 		end,
 	},
 
+	-- PLUGIN
 	-- Highlight todo, notes, etc in comments
 	{
 		"folke/todo-comments.nvim",
@@ -729,6 +740,8 @@ require("lazy").setup({
 			--  Check out: https://github.com/echasnovski/mini.nvim
 		end,
 	},
+
+	-- PLUGIN
 	{ -- Highlight, edit, and navigate code
 		"nvim-treesitter/nvim-treesitter",
 		build = ":TSUpdate",
@@ -772,6 +785,7 @@ require("lazy").setup({
 	require("kickstart.plugins.neo-tree"),
 	-- require("kickstart.plugins.lint"),
 
+	-- PLUGIN
 	{
 		"andweeb/presence.nvim", --discord rich presence for Neovim
 		config = function()
@@ -801,6 +815,7 @@ require("lazy").setup({
 		end,
 	},
 
+	-- PLUGIN
 	{
 		"zbirenbaum/copilot.lua",
 		keys = {},
@@ -851,6 +866,7 @@ require("lazy").setup({
 		end,
 	},
 
+	-- PLUGIN
 	{
 		-- Github copilot completion via cmp
 		"zbirenbaum/copilot-cmp",
@@ -867,6 +883,7 @@ require("lazy").setup({
 		end,
 	},
 
+	-- PLUGIN
 	{
 		"ThePrimeagen/harpoon",
 		branch = "harpoon2",
@@ -932,6 +949,7 @@ require("lazy").setup({
 		},
 	},
 
+	-- PLUGIN
 	{
 		"epwalsh/obsidian.nvim",
 		version = "*",
@@ -942,6 +960,7 @@ require("lazy").setup({
 		},
 	},
 
+	-- PLUGIN
 	{
 		"gaoDean/autolist.nvim",
 		ft = {
@@ -979,6 +998,7 @@ require("lazy").setup({
 		end,
 	},
 
+	-- PLUGIN
 	{
 		"vhyrro/luarocks.nvim",
 		priority = 1001, -- this plugin needs to run before anything else
@@ -986,6 +1006,8 @@ require("lazy").setup({
 			rocks = { "magick" },
 		},
 	},
+
+	-- PLUGIN
 	{
 		"3rd/image.nvim",
 		dependencies = { "luarocks.nvim" },
@@ -1022,6 +1044,7 @@ require("lazy").setup({
 		end,
 	},
 
+	-- PLUGIN
 	{
 		"christoomey/vim-tmux-navigator",
 		cmd = {
@@ -1038,6 +1061,27 @@ require("lazy").setup({
 			{ "<c-l>", "<cmd><C-U>TmuxNavigateRight<cr>" },
 			{ "<c-\\>", "<cmd><C-U>TmuxNavigatePrevious<cr>" },
 		},
+	},
+
+	{
+		"Exafunction/codeium.vim",
+		event = "BufEnter",
+
+		config = function()
+			-- Change '<C-g>' here to any keycode you like.
+			vim.keymap.set("i", "<C-[>", function()
+				return vim.fn["codeium#Accept"]()
+			end)
+			vim.keymap.set("i", "<c-;>", function()
+				return vim.fn["codeium#CycleCompletions"](2)
+			end)
+			vim.keymap.set("i", "<c-'>", function()
+				return vim.fn["codeium#CycleCompletions"](-1)
+			end)
+			vim.keymap.set("i", "<c-x>", function()
+				return vim.fn["codeium#Clear"]()
+			end)
+		end,
 	},
 
 	-- { import = 'custom.plugins' },

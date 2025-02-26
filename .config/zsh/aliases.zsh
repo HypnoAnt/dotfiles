@@ -63,6 +63,11 @@ alias sgrep='grep -R -n -H -C 5 --exclude-dir={.git,.svn,CVS} '
 
 alias t='tail -f'
 alias py='python3'
+alias p='python3'
+pyenv(){
+   python3 -m venv env
+   source env/bin/activate
+}
 alias e='einstein'
 
 # Command line head / tail shortcuts
@@ -85,7 +90,6 @@ alias ff='find . -type f -name'
 alias h='history'
 alias hgrep="fc -El 0 | grep"
 alias help='man'
-alias p='ps -f'
 alias sortnr='sort -n -r'
 alias unexport='unset'
 
