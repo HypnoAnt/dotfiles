@@ -1,0 +1,9 @@
+command = tmux
+
+shell-integration = zsh
+click-repeat-interval = 500
+auto-update = off
+font-family = "Fira Code Nerd Font Mono"
+theme = tokyonight_night
+# make it work nicely with a tiling wm
+confirm-close-surface = false

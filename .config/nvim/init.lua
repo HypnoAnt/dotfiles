@@ -1069,7 +1069,7 @@ require("lazy").setup({
 
 		config = function()
 			-- Change '<C-g>' here to any keycode you like.
-			vim.keymap.set("i", "<C-[>", function()
+			vim.keymap.set("i", "<C-g>", function()
 				return vim.fn["codeium#Accept"]()
 			end)
 			vim.keymap.set("i", "<c-;>", function()

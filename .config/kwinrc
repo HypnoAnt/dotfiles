@@ -2,7 +2,7 @@
 update_info=kwin.upd:replace-scalein-with-scale,kwin.upd:port-minimizeanimation-effect-to-js,kwin.upd:port-scale-effect-to-js,kwin.upd:port-dimscreen-effect-to-js,kwin.upd:auto-bordersize,kwin.upd:animation-speed,kwin.upd:desktop-grid-click-behavior,kwin.upd:no-swap-encourage,kwin.upd:make-translucency-effect-disabled-by-default,kwin.upd:remove-flip-switch-effect,kwin.upd:remove-cover-switch-effect,kwin.upd:remove-cubeslide-effect,kwin.upd:remove-xrender-backend,kwin.upd:enable-scale-effect-by-default,kwin.upd:overview-group-plugin-id,kwin.upd:animation-speed-cleanup,kwin.upd:replace-cascaded-zerocornered
 
 [Activities][LastVirtualDesktop]
-e246b57e-36b5-4f60-aff8-4d06ee7fe850=7fd1162d-5190-48ad-a8ef-26483f6cc4fc
+e246b57e-36b5-4f60-aff8-4d06ee7fe850=af857eca-f378-433d-b468-e5f0beab130e
 
 [Desktops]
 Id_1=7fd1162d-5190-48ad-a8ef-26483f6cc4fc
@@ -87,6 +87,9 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][ab038ab6-4f7a-5130-bd28-29d0a4b08342]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][ae8c0dd2-082b-5070-9dca-f1ca5245fb9e]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][c28d68bd-1b47-5822-ab24-2d8aacdb3597]
