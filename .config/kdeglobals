@@ -136,8 +136,9 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [DirSelect Dialog]
-DirSelectDialog Size=820,584
-History Items[$e]=file:$HOME/Pictures/HypnoAnt,file:$HOME/Redbrick/blockbot,file:$HOME/Coding/Code/Projects/blockbot,file:$HOME/Coding/Code/Projects/tech_arena_24_phase_1,file:$HOME/Coding/Code/Projects/tech_arena_24_phase_1,file:$HOME/Redbrick/nix-configs,file:$HOME/docs/docs,file:$HOME/docs,file:$HOME/docs/docs,file:$HOME/docs,file:$HOME/Redbrick/docs-test/docs,file:$HOME/Redbrick/docs/docs,file:$HOME/Redbrick/docs/docs,file:$HOME/Redbrick/docs,file:$HOME/Redbrick/docs,file:$HOME/Redbrick/open-governance,file:$HOME/Documents/Obsidian/Brain,file:$HOME/Redbrick/docs,file:$HOME/Documents/Obsidian/Brain,file:$HOME/Documents/Obsidian/2023Ytb02c
+DirSelectDialog Size=1344,881
+History Items[$e]=file:$HOME/DCU/year-2/CSC1040/react-repeat/frontend,file:$HOME/Coding/Code/Projects/FantasyF1,file:$HOME/Coding/Code/Projects/FantasyF1/backend,file:$HOME/.config/nvim/,file:$HOME/DCU/year-2/CSC1040/uni-system,file:$HOME/DCU/year-2/CSC1021/2025-customshell/Stage3,file:$HOME/Coding/Code/Projects/Energy-Calculations,file:$HOME/Redbrick/blockbot,file:$HOME/Pictures/HypnoAnt,file:$HOME/Redbrick/blockbot,file:$HOME/Coding/Code/Projects/blockbot,file:$HOME/Coding/Code/Projects/tech_arena_24_phase_1,file:$HOME/Coding/Code/Projects/tech_arena_24_phase_1,file:$HOME/Redbrick/nix-configs,file:$HOME/docs/docs,file:$HOME/docs,file:$HOME/docs/docs,file:$HOME/docs,file:$HOME/Redbrick/docs-test/docs,file:$HOME/Redbrick/docs/docs,file:$HOME/Redbrick/docs/docs,file:$HOME/Redbrick/docs,file:$HOME/Redbrick/docs,file:$HOME/Redbrick/open-governance,file:$HOME/Documents/Obsidian/Brain,file:$HOME/Redbrick/docs,file:$HOME/Documents/Obsidian/Brain,file:$HOME/Documents/Obsidian/2023Ytb02c
+Splitter State=\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00\x8c\x00\x00\x02\xa8\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
 
 [General]
 ColorSchemeHash=0be804dba87e3512aeb4be3d78ed981f59f0f2f4

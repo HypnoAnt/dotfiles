@@ -81,6 +81,7 @@ Backspace Remove Composed Characters=false
 Bookmark Menu Sorting=0
 Bracket Match Preview=false
 Chars To Enclose Selection=<>(){}[]'"
+Cycle Through Bookmarks=true
 Default Mark Type=1
 Dynamic Word Wrap=true
 Dynamic Word Wrap Align Indent=80
@@ -109,7 +110,7 @@ Scroll Bar Mini Map Width=60
 Scroll Bar MiniMap=true
 Scroll Bar Preview=true
 Scroll Past End=false
-Search/Replace Flags=140
+Search/Replace Flags=524
 Shoe Line Ending Type in Statusbar=false
 Show Documentation With Completion=true
 Show File Encoding=true
@@ -133,15 +134,12 @@ Word Completion=true
 Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
-[KTextEditor::Search]
-Replace History=,;,;\s
-Search History=cns,society,week,#,**,distance,Distance,entityDistance,entity,fov,run,Group 20,23378013,upgrad,upgrade,Vault,WI,score": ,awake\\,True,sleep_,contributors,rest,;,; ,.,registrations,.einstein-r,U2FsdGVkX1/7pMeooKAoDJcM2SlPDILeY7pUVsyvxPz14AsgfSLM/U8IJGj9yiT3\n,7781fce53cdefd27029ffbce0d725ab55b02a8ad,ssh
-
 [MainWindow]
 1920x1200 screen: Height=1109
 1920x1200 screen: Width=959
 2 screens: Height=918
 2 screens: Width=594
+2 screens: Window-Maximized=true
 
 [filetree]
 editShade=31,81,106
