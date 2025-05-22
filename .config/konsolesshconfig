@@ -32,12 +32,12 @@ useSshConfig=true
 username=
 
 [SSH Config][HypnoLaptop]
-hostname=192.168.0.114
+hostname=192.168.0.233
 identifier=HypnoLaptop
 importedFromSshConfig=true
 port=
 profileName=hypnoant
-sshkey=
+sshkey=~/.ssh/ecdsa-key
 useSshConfig=true
 username=hypno
 
